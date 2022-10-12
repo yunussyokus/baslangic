@@ -1,1 +1,1 @@
-# baslangic
+# bas
